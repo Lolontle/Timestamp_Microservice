@@ -1,0 +1,1 @@
+It takes a date string and gives you back a JSON with Unix value and natural format for the given date.
